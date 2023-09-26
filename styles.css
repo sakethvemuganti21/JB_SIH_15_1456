@@ -1,0 +1,67 @@
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+            background-image: url('background1.png'); /* Replace 'background-image.jpg' with your image file's path and name */
+            background-size: cover; /* Cover the entire background */
+            background-repeat: no-repeat; /* Prevent repeating of the image */
+            background-attachment: fixed; /* Fixed background image */
+            background-color: hwb(196 72% 11%);
+            position: relative;
+        }
+        .container {
+            margin-top: 80px;
+            background-color: rgba(255, 255, 255, 0.7);
+            padding: 10px;
+            border-radius: 25px;
+            box-shadow: 0 2px 10px #2a054300;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .form-group {
+            margin-top: 50px;
+        }
+
+        #instructions {
+            font-size: 21px;
+        }
+
+        #lang-select {
+            width: 10%;
+            padding: 10px;
+        }
+
+        #output {
+            width: 100%;
+        }
+
+        .btn-group {
+            display: flex;
+            align-items: center;
+        }
+        
+        #speech-icon{
+            width: 28px;
+            height: 30px;
+        }    
+
+        #microphone-icon {
+            height: 2.3rem; /* Maintain aspect ratio */
+            margin-right: 10px;
+        }
+
+        #start-btn {
+            width: 100%;
+        }
+        #translate-btn {
+            width: 100%;
+        }
+
+        
+
+       
