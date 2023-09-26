@@ -1,7 +1,5 @@
 
-# Project Title
-Speech to text transcription for 
-Indian languages
+# Speech to text transcription for Indian languages
 
 ## Tech Stack
 
