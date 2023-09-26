@@ -1,6 +1,9 @@
 
 # Speech to text transcription for Indian languages
 
+## Live Site [![Netlify Status](https://api.netlify.com/api/v1/badges/b96b9a96-ae62-468a-818d-f05458e42b30/deploy-status)](https://app.netlify.com/sites/sih-speech-to-text/deploys)
+Live Demo Link: https://sih-speech-to-text.netlify.app/
+
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript, Bootstrap
